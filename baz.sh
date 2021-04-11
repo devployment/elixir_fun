@@ -1,2 +1,2 @@
 #!/bin/sh
-iex --name baz@127.0.0.1 --cookie foobarbaz
+iex --name baz@local.test --cookie foobarbaz -S mix
